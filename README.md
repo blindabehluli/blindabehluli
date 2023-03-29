@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/stars/blindabehluli/your-repository?style=social" alt="GitHub Stars">
 </p>
 
-<p>
+<p align="center">
   <h2>:mortar_board: Education</h2>
   <ul align="center">
     <li>B.S. in Computer Science, UBT University, 2021-2024</li>
@@ -20,7 +20,7 @@
   </ul>
 </p>
 
-<p>
+<p align="center">
   <h2>:computer: Skills</h2>
   <ul align="center">
     <li>Programming Languages: Java, PHP, Javascript</li>
